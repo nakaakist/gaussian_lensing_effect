@@ -1,0 +1,6 @@
+*.tsv
+*.csv
+*.png
+*.eps
+*.ipynb
+core
